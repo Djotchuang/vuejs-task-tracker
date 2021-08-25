@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "text": "Football Match",
+      "day": "August 25th at 11:30am",
+      "reminder": false
+    },
+    {
+      "id": "2",
+      "text": "Start Work",
+      "day": "August 25th at 6:30am",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Play Game",
+      "day": "August 30th at 1:30am",
+      "reminder": false
+    },
+    {
+      "text": "Watch a movie",
+      "day": "August 25th at midnight",
+      "reminder": true,
+      "id": 6
+    }
+  ]
+}
