@@ -1,19 +1,19 @@
-# task-tracker
+## Vuejs 3 Task Tracker App
 
-## Project setup
-```
+This is a simple task tracker app with Vuejs 3, built and modified, following Brad Traversy's tutorial on YouTube.
+
+# Project setup
+
 npm install
-```
 
-### Compiles and hot-reloads for development
-```
+# Run the JSON-Server backend (http://localhost:5000)
+
+npm run backend
+
+# Run the Vue dev server (http://localhost:8080)
+
 npm run serve
-```
 
-### Compiles and minifies for production
-```
+# Compile and minify files into a dist folder for production
+
 npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
